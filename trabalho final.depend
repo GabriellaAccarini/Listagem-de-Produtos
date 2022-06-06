@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654539208 source:c:\users\dell\documents\fatec\linguagem de programacao\trabalho final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"products.h"
+
+1654534868 c:\users\dell\documents\fatec\linguagem de programacao\trabalho final\products.h
+
+1654539202 source:c:\users\dell\documents\fatec\linguagem de programacao\trabalho final\products.c
+	<stdio.h>
+	<stdlib.h>
+	"products.h"
+
